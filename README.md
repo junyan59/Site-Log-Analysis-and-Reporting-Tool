@@ -1,5 +1,5 @@
 # Site Log Analysis and Reporting Tool
-The project is to build an internal reporting tool based on a news site log database with 1.6 million records. Design complex SQL query plans to analyze the data and provided business insights.
+The project is to build an internal reporting tool based on a news site log database with 1.6 million records. Design complex SQL query plans to analyze the data and provide business insights.
 
 ## Questions
 1. **What are the most popular three articles of all time?** Which articles have been accessed the most?
